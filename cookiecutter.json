@@ -1,5 +1,5 @@
 {
-    "plugin_name": "PluginName",
+    "plugin_name": "quickchat",
     "plugin_description": "Write a plugin description here",
     "_copy_without_render": [
         "{{cookiecutter.plugin_name}}/fmt/src/*", 
